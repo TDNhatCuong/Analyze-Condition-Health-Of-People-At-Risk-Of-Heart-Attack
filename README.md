@@ -1,4 +1,4 @@
-# Analyze Condition Health Of People At Risk Of Heart Attack
+# Phân tích tình trạng, sức khỏe của những người có nguy cơ mắc bệnh đau tim
 Mục đích của chủ đề này nhằm xây dựng mô hình khả năng dự đoán và phân loại cho các bệnh nhân có nguy cơ mắc bệnh đau tim. Điều này hỗ trợ cho các chuyên gia y tế và nhà quản lý sức khỏe trong việc đánh giá và xác định nguy cơ mắc bệnh đau tim cho từng các nhân dựa vào các yếu tố sức khỏe. Ngoài ra còn cung cấp thông tin quan trọng để phát triển các chương trình phòng ngừa và quản lý bệnh tim mạch. Cuối cùng, có thể làm căn cứ để nghiên cứu và tiếp tục phát triển trong lĩnh vực này, nhằm nâng cao hiểu biết và chăm sóc sức khỏe của những người có nguy cơ mắc bệnh đau tim.
 
 Chi tiết bài toán:
